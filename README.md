@@ -1,5 +1,5 @@
 # 💫 Sobre:
-🔭 Desenvolvedor Front-End<br>🌱 Estudando Typescript<br>👯 Disponivel para trabalho<br>💬 Contato: (61) 98552-4070<br>⚡ Cursando Desenvolvimento Full-Stack
+🔭 Desenvolvedor Front-End<br>🌱 Estudando Nodejs<br>👯 Disponivel para trabalho<br>💬 Contato: (61) 98552-4070<br>⚡ Cursando Desenvolvimento Full-Stack
 
 
 ## 🌐 Socials:
