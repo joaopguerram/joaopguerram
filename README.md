@@ -1,5 +1,5 @@
 # 💫 Sobre:
-🔭 Desenvolvedor Full-Stack<br>🌱 Estudando Java<br>👯 Disponivel para trabalho<br>💬 Contato: (61) 98552-4070<br>⚡ Cursando Desenvolvimento Full-Stack
+🔭 Desenvolvedor Full-Stack<br>🌱 Estudando Java<br>👯 Disponivel para trabalho<br>💬 Contato: (61) 98552-4070<br>⚡ Cursando Analise e Desenvolvimento de Sistemas
 
 
 ## 🌐 Socials:
